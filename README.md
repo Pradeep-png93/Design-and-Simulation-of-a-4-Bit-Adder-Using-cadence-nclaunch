@@ -3,7 +3,6 @@
 ## Aim
 The aim is to design and simulate a **4-bit Adder** using **Verilog HDL** and verify its functionality using **Cadence nclaunch** for simulation.
 
----
 
 ## Tools Required
 ### Cadence EDA Suite
@@ -12,7 +11,6 @@ The aim is to design and simulate a **4-bit Adder** using **Verilog HDL** and ve
 ### Hardware Requirements
 - Minimum **4GB RAM** and a **multi-core processor**
 
----
 
 ## Procedure
 
@@ -97,10 +95,10 @@ endmodule
 
 ### Nclaunch Work Library Window
 
-![WhatsApp Image 2026-02-28 at 1 00 57 AM](https://github.com/user-attachments/assets/217f14a4-8815-4419-9a37-26ad81b5f643)
+![Screenshot 2025-05-21 155538](https://github.com/user-attachments/assets/187ebe28-40e2-44b2-9b78-d08bdc67d62c)
 
 ### Simulation Waveforms
-![WhatsApp Image 2026-02-28 at 1 00 17 AM](https://github.com/user-attachments/assets/7f38019c-fd3f-486a-ba54-eaec03866bfd)
+![WhatsApp Image 2026-02-25 at 3 57 12 PM](https://github.com/user-attachments/assets/6117cf90-ceb4-4da5-a3db-6634e4405060)
 
 
 
